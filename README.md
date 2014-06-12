@@ -7,11 +7,7 @@ Installs the Indigo home automation app.
 ## Usage
 
 ```puppet
-# Stable release
 include indigo
-
-# Beta release
-include indigo::beta
 ```
 
 ## Required Puppet Modules
